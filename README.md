@@ -4,7 +4,7 @@
 
 ###My name is *Intisar*
 
-I am a graduate at 1.**Avanade**
+1. I am a graduate at **Avanade**
 2. I recently graduated from **Maynooth Univerity**
 
 
