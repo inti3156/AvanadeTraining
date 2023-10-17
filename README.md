@@ -1,8 +1,8 @@
 # AvanadeTraining
 
-##Introduction
+## Introduction
 
-###My name is *Intisar*
+### My name is *Intisar*
 
 1. I am a graduate at **Avanade**
 2. I recently graduated from **Maynooth Univerity**
