@@ -1,0 +1,6 @@
+.*
+!.gitIgnore
+/Logs
+**/junk
+.env*
+
